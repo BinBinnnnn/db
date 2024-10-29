@@ -32,6 +32,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 8419981,
+      "category": "sustainability",
+      "title": "Basketball competition",
+      "description": "Everyone should exercise.",
+      "location": "player ground at north gate",
+      "date": "July 24, 2022",
+      "time": "11:00",
+      "petsAllowed": false,
+      "organizer": "MaBin(Nick)"
     }
   ]
 }
